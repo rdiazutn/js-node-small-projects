@@ -1,0 +1,4 @@
+Add expiration
+Add http only cookie
+Add secure cookie
+Add context
